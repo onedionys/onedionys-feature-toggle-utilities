@@ -1,6 +1,6 @@
 {
   "name": "onedionys-feature-toggle-utilities",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Feature Toggle Utilities) - Functions to enable or disable features in the application based on certain conditions or parameters.",
   "main": "src/featureToggle.js",
   "directories": {
